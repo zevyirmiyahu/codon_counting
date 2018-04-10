@@ -5,7 +5,7 @@ import java.util.HashMap;
 import edu.duke.FileResource;
 
 /*
- * This is a program designed for an assignment for a Duke Coursera course. It utualizes 
+ * This is a program designed for an assignment for a Duke Coursera course. It utilizes 
  * the duke learn to program java library and counts the total number of unique codons 
  * for frame1 = 0, frame2 = 1 and frame3 = 2. The program also prints the count of the 
  * most frequent codon.
